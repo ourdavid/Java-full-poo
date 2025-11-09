@@ -2,7 +2,7 @@ package estrutura_sequencial;
 
 import java.util.Scanner;
 
-public class entrada {
+public class Entrada {
     public static void main (String[] args){
         Scanner sc = new Scanner(System.in); //objeto scaner
 

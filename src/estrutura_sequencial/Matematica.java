@@ -1,6 +1,6 @@
 package estrutura_sequencial;
 
-public class matematica {
+public class Matematica {
     public static void main(String[] args){
         double x,y,z;
         double a,b,c;
