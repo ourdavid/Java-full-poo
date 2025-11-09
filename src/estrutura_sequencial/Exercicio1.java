@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Autor: David William
  * Data: 09/11/2025 */
 
-public class Exercicio01 {
+public class Exercicio1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x,y,z;
