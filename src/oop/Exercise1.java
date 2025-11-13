@@ -7,18 +7,16 @@ public class Exercise1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enther the measures of triangule x ");
 
         Triagle x,y;
         x = new Triagle();
         y = new Triagle();
 
+        System.out.println("Enther the measures of triangule x ");
         x.a = sc.nextDouble();
         x.b = sc.nextDouble();
         x.c = sc.nextDouble();
-
         System.out.println("Enther the measures of triangule Y ");
-
         y.a = sc.nextDouble();
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
